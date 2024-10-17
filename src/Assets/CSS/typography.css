@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'Newsreader';
+    src: url('../../../public/assets/fonts/newsreader/Newsreader_60pt-Regular.ttf')  format('truetype');
+    font-weight: 400;
+    display: swap;
+}
+@font-face {
+    font-family: 'Newsreader';
+    src: url('../../../public/assets/fonts/newsreader/Newsreader_60pt-Regular.ttf')  format('truetype');
+    font-weight: 400;
+    display: swap;
+}
+@font-face {
+    font-family: 'Newsreader';
+    src: url('../../../public/assets/fonts/newsreader/Newsreader_60pt-Light.ttf')  format('truetype');
+    font-weight: 300;
+    display: swap;
+}
+@font-face {
+    font-family: 'Newsreader';
+    src: url('../../../public/assets/fonts/newsreader/Newsreader_60pt-Medium.ttf')  format('truetype');
+    font-weight: 500;
+    display: swap;
+}
+@font-face {
+    font-family: 'Newsreader';
+    src: url('../../../public/assets/fonts/newsreader/Newsreader_60pt-SemiBold.ttf')  format('truetype');
+    font-weight: 600;
+    display: swap;
+}
+@font-face {
+    font-family: 'Newsreader';
+    src: url('../../../public/assets/fonts/newsreader/Newsreader_60pt-Bold.ttf')  format('truetype');
+    font-weight: 700;
+    display: swap;
+}
+
+
+@font-face {
+    font-family: 'Wulkan Display';
+    src: url('../../../public/assets/fonts/wulkan/WulkanDisplayRegular.ttf')  format('truetype');
+    font-weight: 400;
+    display: swap;
+}
+@font-face {
+    font-family: 'Wulkan Display';
+    src: url('../../../public/assets/fonts/wulkan/WulkanDisplayLight.ttf')  format('truetype');
+    font-weight: 300;
+    display: swap;
+}
+@font-face {
+    font-family: 'Wulkan Display';
+    src: url('../../../public/assets/fonts/wulkan/WulkanDisplayMedium.ttf')  format('truetype');
+    font-weight: 500;
+    display: swap;
+}
+@font-face {
+    font-family: 'Wulkan Display';
+    src: url('../../../public/assets/fonts/wulkan/WulkanDisplaySemiBold.ttf')  format('truetype');
+    font-weight: 600;
+    display: swap;
+}
+@font-face {
+    font-family: 'Wulkan Display';
+    src: url('../../../public/assets/fonts/wulkan/WulkanDisplayBold.ttf')  format('truetype');
+    font-weight: 700;
+    display: swap;
+}
+
