@@ -59,6 +59,17 @@ export default function Header() {
                     Contact Us
                   </Link>
                 </li>
+                <button
+                  className="close"
+                  type="button"
+                  data-toggle="collapse"
+                  data-target="#navbarNav"
+                  aria-controls="navbarNav"
+                  aria-expanded="false"
+                  aria-label="Toggle navigation"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
               </ul>
             </div>
           </nav>

@@ -831,6 +831,7 @@ margin-top: 50px
   font-weight: 500;
   color: #666;
   flex-basis: 30%;
+  margin-bottom: 0;
 }
 
 /* Email and Policy on the same line */
@@ -937,6 +938,10 @@ margin-top: 50px
   .testimonial-author,
   .testimonial-text {
     font-size: 14px !important;
+  }
+
+  .logo{
+    width: 70%;
   }
 
   .special-moments-section h2,
