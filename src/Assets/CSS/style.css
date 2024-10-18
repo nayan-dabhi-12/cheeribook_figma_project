@@ -112,19 +112,6 @@ a {
   border-radius: 10px !important;
 }
 
-
-
-/* button {
-  width: 100%;
-  padding: 12px;
-  background-color: grey;
-  color: white;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-  font-size: 16px;
-} */
-
 button:hover {
   background-color: black;
   color: white;
@@ -296,11 +283,6 @@ margin-top: 50px
     font-size: 14px; /* Adjust button font size for smaller screens */
   }
 }
-
-
-
-
-
 
 .image-section {
   padding: 0;
